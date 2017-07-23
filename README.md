@@ -1,2 +1,0 @@
-# zhang
-$ ssh-keygen
